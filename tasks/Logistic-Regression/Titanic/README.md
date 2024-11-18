@@ -1,4 +1,4 @@
-### [Titanic] (https://www.kaggle.com/competitions/titanic)
+### [Titanic](https://www.kaggle.com/competitions/titanic)
 
 __Цель__ - предсказать какие пассажиры выжили после крушения Титаника.
 
