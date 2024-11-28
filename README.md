@@ -1,8 +1,8 @@
 # bml-2024-tasks
 
 
-ФИО            | № подгруппы             | Задача            
----------------|------------------|-------------------
+ФИО            | № подгруппы             | Задача       | Зачтено     
+---------------|------------------|-------------------|-------------------
 Губанов А.Д  | 1     | [Boosting (Titanic)](tasks/Boosting/Titanic)
 Шевченко Г.И | 1     | [Linear-regression (Abalone)](tasks/Linear-regression/Abalone)
 Кузнецова Ю.Е    | 2| [LDA (Cirrhosis-Outcomes)](tasks/LDA/Cirrhosis-Outcomes)
@@ -17,9 +17,9 @@
 Ушкарёв С.Д | 6     | [DBSCAN (Customer-Segmentation)](tasks/DBSCAN/Customer-Segmentation)
 Ироносов А.В  | 8     | [Decision-Tree (Smoker-Status-Prediction)](tasks/Decision-Tree/Smoker-Status-Prediction)
 Дубовицкий В.А | 8     | [k-means (Wholesale-customers)](tasks/k-means/Wholesale-customers)
-Скворцов В.С  | 9     | [Time-series (Store-Sales)](tasks/Time-series/Store-Sales)
+Скворцов В.С  | 9     | [Time-series (Store-Sales)](tasks/Time-series/Store-Sales) | +
 Горюнов М.Ю  | 9     | [Boosting (Insurance)](tasks/Boosting/Insurance-Cross-Selling-Classification)
-Аптуков М.И  | 10     | [SVM (House-Prices)](tasks/SVM/House-Prices)
+Аптуков М.И  | 10     | [SVM (House-Prices)](tasks/SVM/House-Prices) | +
 Марков М.Д  | 10     | [Linear-regression (Car-Prices)](tasks/Linear-regression/Car-Prices)
 Гребнев Г.А  | 12     | [KNN (Spaceship-Titanic)](tasks/KNN/Spaceship-Titanic)
 Шкуропат П.К  | 12     | [DBSCAN (Tabular-Playground-Series)](tasks/DBSCAN/Tabular-Playground-Series)
@@ -40,8 +40,8 @@
 Фирсова В.И  | 21     | [Boosting (Abalone)](tasks/Boosting/Abalone)
 Казакевич А.Ю  | 21     | [DBSCAN (Wholesale-customers)](tasks/DBSCAN/Wholesale-customers)
 Лапина О.К  | 22     | [Boosting (Smoker Status Prediction)](tasks/Boosting/Smoker-Status-Prediction)
-Марченко Е.С  | 22     | [Logistic-Regression (Employee-Attrition)](tasks/Logistic-Regression/Employee-Attrition)
-Маликов И.М  | 23     | [Linear-regression (House-Prices)](tasks/Linear-regression/House-Prices)
+Марченко Е.С  | 22     | [Logistic-Regression (Employee-Attrition)](tasks/Logistic-Regression/Employee-Attrition) | +
+Маликов И.М  | 23     | [Linear-regression (House-Prices)](tasks/Linear-regression/House-Prices) | +
 Мартынов А.Д  | 23     | [CNN (notMNIST)](tasks/CNN/notMNIST)
 Забродин К.И  | 24     | [Stacking (House-Prices)](tasks/Stacking/House-Prices)
 Филиппов Д.К  | 24     | [Stacking (Employee-Attrition)](tasks/Stacking/Employee-Attrition)
