@@ -20,7 +20,7 @@
 Скворцов В.С  | 9     | [Time-series (Store-Sales)](tasks/Time-series/Store-Sales) | +
 Горюнов М.Ю  | 9     | [Boosting (Insurance)](tasks/Boosting/Insurance-Cross-Selling-Classification)
 Аптуков М.И  | 10     | [SVM (House-Prices)](tasks/SVM/House-Prices) | +
-Марков М.Д  | 10     | [Linear-regression (Car-Prices)](tasks/Linear-regression/Car-Prices)
+Марков М.Д  | 10     | [Linear-regression (Car-Prices)](tasks/Linear-regression/Car-Prices) | +
 Гребнев Г.А  | 12     | [KNN (Spaceship-Titanic)](tasks/KNN/Spaceship-Titanic)
 Шкуропат П.К  | 12     | [DBSCAN (Tabular-Playground-Series)](tasks/DBSCAN/Tabular-Playground-Series)
 Соломатов А.Д  | 13     | [CNN (Sign-Language-MNIST)](tasks/CNN/Sign-Language-MNIST)
@@ -29,8 +29,8 @@
 Умнов С.А | 14     | [Random-Forest (Smoker-Status-Prediction)](tasks/Random-Forest/Smoker-Status-Prediction)
 Соков Д.Д  | 15     | [Boosting (House-Prices)](tasks/Boosting/House-Prices)
 Сороколетов Д.Д | 15     | [KNN (Smoker-Status-Prediction)](tasks/KNN/Smoker-Status-Prediction)
-Корпусова С.Д  | 16     | [Logistic-Regression (Titanic)](tasks/Logistic-Regression/Titanic)
-Афанасьев А.В  | 16     | [MLP (Obesity-Prediction)](tasks/MLP/Obesity-Prediction)
+Корпусова С.Д  | 16     | [Logistic-Regression (Titanic)](tasks/Logistic-Regression/Titanic) | +
+Афанасьев А.В  | 16     | [MLP (Obesity-Prediction)](tasks/MLP/Obesity-Prediction) | +
 Голузин Е.К  | 17     | [Stacking (Insurance)](tasks/Stacking/Insurance-Cross-Selling-Classification)
 Пучкин И.А  | 17     | [SVM (Smoker-Status-Prediction)](tasks/SVM/Smoker-Status-Prediction)
 Бабахина С.А  | 18     | [Random-Forest (Obesity-Prediction)](tasks/Random-Forest/Obesity-Prediction)
