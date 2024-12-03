@@ -7,7 +7,7 @@
 Шевченко Г.И | 1     | [Linear-regression (Abalone)](tasks/Linear-regression/Abalone)
 Кузнецова Ю.Е    | 2| [LDA (Cirrhosis-Outcomes)](tasks/LDA/Cirrhosis-Outcomes)
 Табакова В.О    | 2    | [Decision-Tree (Titanic)](tasks/Decision-Tree/Titanic)
-Волгузов А.Ю  | 3     | [Polynomial-regression (Sales)](tasks/Polynomial-regression/Sales)
+Волгузов А.Ю  | 3     | [Polynomial-regression (Sales)](tasks/Polynomial-regression/Sales) | +
 Иванов А.П | 3     | [Logistic-Regression (Smoker-Status-Prediction)](tasks/Logistic-Regression/Smoker-Status-Prediction)
 Кац С.В  | 4     | [PCA (Breast-Cancer)](tasks/PCA/Breast-Cancer-Wisconsin)
 Ежова Е.Д  | 4     | [Decision-Tree (Spaceship-Titanic)](tasks/Decision-Tree/Spaceship-Titanic)
@@ -21,6 +21,8 @@
 Горюнов М.Ю  | 9     | [Boosting (Insurance)](tasks/Boosting/Insurance-Cross-Selling-Classification)
 Аптуков М.И  | 10     | [SVM (House-Prices)](tasks/SVM/House-Prices) | +
 Марков М.Д  | 10     | [Linear-regression (Car-Prices)](tasks/Linear-regression/Car-Prices) | +
+Филиппов П  | 11     | [Boosting (Insurance-Prediction)](tasks/Boosting/Insurance-Prediction)
+Бирюков А | 11     | [Random-Forest (Concrete-Strength)](tasks/Random-Forest/Concrete-Strength)
 Гребнев Г.А  | 12     | [KNN (Spaceship-Titanic)](tasks/KNN/Spaceship-Titanic)
 Шкуропат П.К  | 12     | [DBSCAN (Tabular-Playground-Series)](tasks/DBSCAN/Tabular-Playground-Series)
 Соломатов А.Д  | 13     | [CNN (Sign-Language-MNIST)](tasks/CNN/Sign-Language-MNIST)
@@ -37,6 +39,8 @@
 Липс Е.К  | 18     | [LDA (Glass-Classification)](tasks/LDA/Glass-Classification)
 Асанов Д.Р  | 19     | [Logistic-Regression (Alice)](tasks/Logistic-Regression/Alice)
 Басалаев Д.А  | 19     | [t-SNE (notMNIST)](tasks/t-SNE/notMNIST)
+Безлепский А.Д  | 20     | [Boosting (Reservation-Cancellation)](tasks/Boosting/Reservation-Cancellation)
+Прохоров А.Д | 20     | [Linear-regression (Concrete-Strength)](tasks/Linear-regression/Concrete-Strength)
 Фирсова В.И  | 21     | [Boosting (Abalone)](tasks/Boosting/Abalone)
 Казакевич А.Ю  | 21     | [DBSCAN (Wholesale-customers)](tasks/DBSCAN/Wholesale-customers)
 Лапина О.К  | 22     | [Boosting (Smoker Status Prediction)](tasks/Boosting/Smoker-Status-Prediction)
@@ -49,7 +53,11 @@
 Бойцов А.Д | 25     | [Linear-regression (Mohs Hardness)](tasks/Linear-regression/Mohs-Hardness)
 Костюхин А.В  | 26     | [Random-Forest (Insurance)](tasks/Random-Forest/Insurance-Cross-Selling-Classification)
 Тасаков А.П  | 26     | [MLP (SteelDefect)](tasks/MLP/Steel-Plate-Defect-Prediction)
+Сажин Д.Д  | 28     | [Boosting (Concrete-Strength)](tasks/Boosting/Concrete-Strength)
+Кромачев М.А | 28     | [SVM (Reservation-Cancellation)](tasks/SVM/Reservation-Cancellation)
 Дмитриев М.Л  | 29     | [PCA (Breast-Cancer-Wisconsin)](tasks/PCA/Breast-Cancer-Wisconsin)
 Хамидуллин И.И  | 29     | [k-means (Customer-Segmentation)](tasks/k-means/Customer-Segmentation)
 Свитюк А.А  | 30     | [k-means (Tabular-Playground-Series)](tasks/k-means/Tabular-Playground-Series)
 Шабанов Н.А | 31     | [Time-series (Sales)](tasks/Time-series/Sales)
+Крылова Е.О  | 32     | [Logistic-Regression (Reservation-Cancellation)](tasks/Logistic-Regression/Reservation-Cancellation)
+Теплов А.С | 32     | [SVM (Reservation-Cancellation)](tasks/SVM/Reservation-Cancellation)
