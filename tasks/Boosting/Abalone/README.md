@@ -9,11 +9,9 @@ __Должно быть выполнено:__
 2) Предварительная обработка данных
 3) Построение и оценка модели
 
-![image_2024-12-04_16-05-03.png](..%2F..%2F..%2F..%2F..%2F..%2FDownloads%2FTelegram%20Desktop%2Fimage_2024-12-04_16-05-03.png)
-
-![image_2024-12-04_16-05-17.png](..%2F..%2F..%2F..%2F..%2F..%2FDownloads%2FTelegram%20Desktop%2Fimage_2024-12-04_16-05-17.png)
-
-![image_2024-12-04_16-05-33.png](..%2F..%2F..%2F..%2F..%2F..%2FDownloads%2FTelegram%20Desktop%2Fimage_2024-12-04_16-05-33.png)
+![image_2024-12-04_16-05-03](https://github.com/user-attachments/assets/e6d4dbdd-2c4d-426f-b5cf-490d9979d3b4)
+![image_2024-12-04_16-05-33](https://github.com/user-attachments/assets/d45c439c-c792-4c63-a06c-42049219056e)
+![image_2024-12-04_16-05-17](https://github.com/user-attachments/assets/71bcb420-9947-4d03-80bf-fee0ac0765d1)
 
 
 # Модель предсказания возраста моллюсков
