@@ -6,7 +6,7 @@
 Губанов А.Д  | 1     | [Boosting (Titanic)](tasks/Boosting/Titanic)
 Шевченко Г.И | 1     | [Linear-regression (Abalone)](tasks/Linear-regression/Abalone)
 Кузнецова Ю.Е    | 2| [LDA (Cirrhosis-Outcomes)](tasks/LDA/Cirrhosis-Outcomes)
-Табакова В.О    | 2    | [Decision-Tree (Titanic)](tasks/Decision-Tree/Titanic)
+Табакова В.О    | 2    | [Decision-Tree (Titanic)](tasks/Decision-Tree/Titanic) | +
 Волгузов А.Ю  | 3     | [Polynomial-regression (Sales)](tasks/Polynomial-regression/Sales) | +
 Иванов А.П | 3     | [Logistic-Regression (Smoker-Status-Prediction)](tasks/Logistic-Regression/Smoker-Status-Prediction)
 Кац С.В  | 4     | [PCA (Breast-Cancer)](tasks/PCA/Breast-Cancer-Wisconsin)
@@ -28,7 +28,7 @@
 Соломатов А.Д  | 13     | [CNN (Sign-Language-MNIST)](tasks/CNN/Sign-Language-MNIST)
 Романчук Е.В  | 13     | [KNN (Car-Prices)](tasks/KNN/Car-Prices)
 Карасев В.А  | 14     | [Boosting (Bank-Churn)](tasks/Boosting/Bank-Churn) | +
-Умнов С.А | 14     | [Random-Forest (Smoker-Status-Prediction)](tasks/Random-Forest/Smoker-Status-Prediction)
+Умнов С.А | 14     | [Random-Forest (Smoker-Status-Prediction)](tasks/Random-Forest/Smoker-Status-Prediction) | +
 Соков Д.Д  | 15     | [Boosting (House-Prices)](tasks/Boosting/House-Prices) | +
 Сороколетов Д.Д | 15     | [KNN (Smoker-Status-Prediction)](tasks/KNN/Smoker-Status-Prediction)
 Корпусова С.Д  | 16     | [Logistic-Regression (Titanic)](tasks/Logistic-Regression/Titanic) | +
@@ -49,12 +49,12 @@
 Мартынов А.Д  | 23     | [CNN (notMNIST)](tasks/CNN/notMNIST)
 Забродин К.И  | 24     | [Stacking (House-Prices)](tasks/Stacking/House-Prices)
 Филиппов Д.К  | 24     | [Stacking (Employee-Attrition)](tasks/Stacking/Employee-Attrition)
-Сулейманов В.Д | 25     | [Logistic-Regression (Bank-Churn)](tasks/Logistic-Regression/Bank-Churn)
+Сулейманов В.Д | 25     | [Logistic-Regression (Bank-Churn)](tasks/Logistic-Regression/Bank-Churn) | +
 Бойцов А.Д | 25     | [Linear-regression (Mohs Hardness)](tasks/Linear-regression/Mohs-Hardness)
 Костюхин А.В  | 26     | [Random-Forest (Insurance)](tasks/Random-Forest/Insurance-Cross-Selling-Classification)
 Тасаков А.П  | 26     | [MLP (SteelDefect)](tasks/MLP/Steel-Plate-Defect-Prediction)
 Сажин Д.Д  | 28     | [Boosting (Concrete-Strength)](tasks/Boosting/Concrete-Strength)
-Кромачев М.А | 28     | [SVM (Reservation-Cancellation)](tasks/SVM/Reservation-Cancellation)
+Кромачев М.А | 28     | [SVM (Reservation-Cancellation)](tasks/SVM/Reservation-Cancellation) | +
 Дмитриев М.Л  | 29     | [PCA (Breast-Cancer-Wisconsin)](tasks/PCA/Breast-Cancer-Wisconsin)
 Хамидуллин И.И  | 29     | [k-means (Customer-Segmentation)](tasks/k-means/Customer-Segmentation)
 Свитюк А.А  | 30     | [k-means (Tabular-Playground-Series)](tasks/k-means/Tabular-Playground-Series)
