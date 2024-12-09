@@ -53,6 +53,8 @@
 Бойцов А.Д | 25     | [Linear-regression (Mohs Hardness)](tasks/Linear-regression/Mohs-Hardness)
 Костюхин А.В  | 26     | [Random-Forest (Insurance)](tasks/Random-Forest/Insurance-Cross-Selling-Classification)
 Тасаков А.П  | 26     | [MLP (SteelDefect)](tasks/MLP/Steel-Plate-Defect-Prediction)
+Соколов С.А  | 27     | [Decision-Tree (Reservation-Cancellation)](tasks/Decision-Tree/Reservation-Cancellation)
+Корьев М.А  | 27     | [LinearRegression (Insurance-regression)](tasks/Linear-regression/Insurance-regression)
 Сажин Д.Д  | 28     | [Boosting (Concrete-Strength)](tasks/Boosting/Concrete-Strength) | +
 Кромачев М.А | 28     | [SVM (Reservation-Cancellation)](tasks/SVM/Reservation-Cancellation) | +
 Дмитриев М.Л  | 29     | [PCA (Breast-Cancer-Wisconsin)](tasks/PCA/Breast-Cancer-Wisconsin)
