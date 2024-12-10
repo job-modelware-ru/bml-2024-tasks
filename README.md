@@ -33,10 +33,10 @@
 Сороколетов Д.Д | 15     | [KNN (Smoker-Status-Prediction)](tasks/KNN/Smoker-Status-Prediction)
 Корпусова С.Д  | 16     | [Logistic-Regression (Titanic)](tasks/Logistic-Regression/Titanic) | +
 Афанасьев А.В  | 16     | [MLP (Obesity-Prediction)](tasks/MLP/Obesity-Prediction) | +
-Голузин Е.К  | 17     | [Stacking (Insurance)](tasks/Stacking/Insurance-Cross-Selling-Classification)
+Голузин Е.К  | 17     | [Stacking (Insurance)](tasks/Stacking/Insurance-Cross-Selling-Classification) | +
 Пучкин И.А  | 17     | [SVM (Smoker-Status-Prediction)](tasks/SVM/Smoker-Status-Prediction) | +
 Бабахина С.А  | 18     | [Random-Forest (Obesity-Prediction)](tasks/Random-Forest/Obesity-Prediction) | +
-Липс Е.К  | 18     | [LDA (Glass-Classification)](tasks/LDA/Glass-Classification)
+Липс Е.К  | 18     | [LDA (Glass-Classification)](tasks/LDA/Glass-Classification) | +
 Асанов Д.Р  | 19     | [Logistic-Regression (Alice)](tasks/Logistic-Regression/Alice)
 Басалаев Д.А  | 19     | [t-SNE (notMNIST)](tasks/t-SNE/notMNIST)
 Безлепский А.Д  | 20     | [Boosting (Reservation-Cancellation)](tasks/Boosting/Reservation-Cancellation)
