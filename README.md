@@ -5,7 +5,7 @@
 ---------------|------------------|-------------------|-------------------
 Губанов А.Д  | 1     | [Boosting (Titanic)](tasks/Boosting/Titanic)
 Шевченко Г.И | 1     | [Linear-regression (Abalone)](tasks/Linear-regression/Abalone)
-Кузнецова Ю.Е    | 2| [LDA (Cirrhosis-Outcomes)](tasks/LDA/Cirrhosis-Outcomes)
+Кузнецова Ю.Е    | 2| [LDA (Cirrhosis-Outcomes)](tasks/LDA/Cirrhosis-Outcomes) | +
 Табакова В.О    | 2    | [Decision-Tree (Titanic)](tasks/Decision-Tree/Titanic) | +
 Волгузов А.Ю  | 3     | [Polynomial-regression (Sales)](tasks/Polynomial-regression/Sales) | +
 Иванов А.П | 3     | [Logistic-Regression (Smoker-Status-Prediction)](tasks/Logistic-Regression/Smoker-Status-Prediction) | +
@@ -46,7 +46,7 @@
 Лапина О.К  | 22     | [Boosting (Smoker Status Prediction)](tasks/Boosting/Smoker-Status-Prediction) | +
 Марченко Е.С  | 22     | [Logistic-Regression (Employee-Attrition)](tasks/Logistic-Regression/Employee-Attrition) | +
 Маликов И.М  | 23     | [Linear-regression (House-Prices)](tasks/Linear-regression/House-Prices) | +
-Мартынов А.Д  | 23     | [CNN (notMNIST)](tasks/CNN/notMNIST)
+Мартынов А.Д  | 23     | [CNN (notMNIST)](tasks/CNN/notMNIST) | +
 Забродин К.И  | 24     | [Stacking (House-Prices)](tasks/Stacking/House-Prices)
 Филиппов Д.К  | 24     | [Stacking (Employee-Attrition)](tasks/Stacking/Employee-Attrition)
 Сулейманов В.Д | 25     | [Logistic-Regression (Bank-Churn)](tasks/Logistic-Regression/Bank-Churn) | +
