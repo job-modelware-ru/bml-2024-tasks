@@ -26,7 +26,7 @@
 Гребнев Г.А  | 12     | [KNN (Spaceship-Titanic)](tasks/KNN/Spaceship-Titanic)
 Шкуропат П.К  | 12     | [DBSCAN (Tabular-Playground-Series)](tasks/DBSCAN/Tabular-Playground-Series)
 Соломатов А.Д  | 13     | [CNN (Sign-Language-MNIST)](tasks/CNN/Sign-Language-MNIST) | +
-Романчук Е.В  | 13     | [KNN (Car-Prices)](tasks/KNN/Car-Prices)
+Романчук Е.В  | 13     | [KNN (Car-Prices)](tasks/KNN/Car-Prices) | +
 Карасев В.А  | 14     | [Boosting (Bank-Churn)](tasks/Boosting/Bank-Churn) | +
 Умнов С.А | 14     | [Random-Forest (Smoker-Status-Prediction)](tasks/Random-Forest/Smoker-Status-Prediction) | +
 Соков Д.Д  | 15     | [Boosting (House-Prices)](tasks/Boosting/House-Prices) | +
@@ -57,7 +57,7 @@
 Корьев М.А  | 27     | [LinearRegression (Insurance-regression)](tasks/Linear-regression/Insurance-regression)
 Сажин Д.Д  | 28     | [Boosting (Concrete-Strength)](tasks/Boosting/Concrete-Strength) | +
 Кромачев М.А | 28     | [SVM (Reservation-Cancellation)](tasks/SVM/Reservation-Cancellation) | +
-Дмитриев М.Л  | 29     | [PCA (Breast-Cancer-Wisconsin)](tasks/PCA/Breast-Cancer-Wisconsin)
+Дмитриев М.Л  | 29     | [PCA (Breast-Cancer-Wisconsin)](tasks/PCA/Breast-Cancer-Wisconsin) | +
 Хамидуллин И.И  | 29     | [k-means (Customer-Segmentation)](tasks/k-means/Customer-Segmentation)
 Свитюк А.А  | 30     | [k-means (Tabular-Playground-Series)](tasks/k-means/Tabular-Playground-Series)
 Шабанов Н.А | 31     | [Time-series (Sales)](tasks/Time-series/Sales)
