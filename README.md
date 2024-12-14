@@ -19,6 +19,7 @@
 Дубовицкий В.А | 8     | [k-means (Wholesale-customers)](tasks/k-means/Wholesale-customers) | +
 Скворцов В.С  | 9     | [Time-series (Store-Sales)](tasks/Time-series/Store-Sales) | +
 Горюнов М.Ю  | 9     | [Boosting (Insurance)](tasks/Boosting/Insurance-Cross-Selling-Classification)
+Горюнов М.Ю  | 9     | [Stacking (Loan Default Prediction)](tasks/Stacking/Loan-Default-Prediction)
 Аптуков М.И  | 10     | [SVM (House-Prices)](tasks/SVM/House-Prices) | +
 Марков М.Д  | 10     | [Linear-regression (Car-Prices)](tasks/Linear-regression/Car-Prices) | +
 Филиппов П  | 11     | [Boosting (Insurance-Prediction)](tasks/Boosting/Insurance-Prediction)
