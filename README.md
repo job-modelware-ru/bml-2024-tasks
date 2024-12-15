@@ -9,7 +9,7 @@
 Табакова В.О    | 2    | [Decision-Tree (Titanic)](tasks/Decision-Tree/Titanic) | +
 Волгузов А.Ю  | 3     | [Polynomial-regression (Sales)](tasks/Polynomial-regression/Sales) | +
 Иванов А.П | 3     | [Logistic-Regression (Smoker-Status-Prediction)](tasks/Logistic-Regression/Smoker-Status-Prediction) | +
-Кац С.В  | 4     | [PCA (Breast-Cancer)](tasks/PCA/Breast-Cancer-Wisconsin)
+Кац С.В  | 4     | [PCA (Breast-Cancer)](tasks/PCA/Breast-Cancer-Wisconsin) | +
 Ежова Е.Д  | 4     | [Decision-Tree (Spaceship-Titanic)](tasks/Decision-Tree/Spaceship-Titanic)
 Рогозин Д.Н  | 5     | [SVM (Abalone)](tasks/SVM/Abalone)
 Губин Р.В  | 5     | [Random-Forest (Bank-Churn)](tasks/Random-Forest/Bank-Churn)
@@ -22,7 +22,7 @@
 Горюнов М.Ю  | 9     | [Stacking (Loan Default Prediction)](tasks/Stacking/Loan-Default-Prediction)
 Аптуков М.И  | 10     | [SVM (House-Prices)](tasks/SVM/House-Prices) | +
 Марков М.Д  | 10     | [Linear-regression (Car-Prices)](tasks/Linear-regression/Car-Prices) | +
-Филиппов П  | 11     | [Boosting (Insurance-Prediction)](tasks/Boosting/Insurance-Prediction)
+Филиппов П  | 11     | [Boosting (Insurance-Prediction)](tasks/Boosting/Insurance-Prediction) | +
 Бирюков А | 11     | [Random-Forest (Concrete-Strength)](tasks/Random-Forest/Concrete-Strength)
 Гребнев Г.А  | 12     | [KNN (Spaceship-Titanic)](tasks/KNN/Spaceship-Titanic)
 Шкуропат П.К  | 12     | [DBSCAN (Tabular-Playground-Series)](tasks/DBSCAN/Tabular-Playground-Series)
@@ -31,7 +31,7 @@
 Карасев В.А  | 14     | [Boosting (Bank-Churn)](tasks/Boosting/Bank-Churn) | +
 Умнов С.А | 14     | [Random-Forest (Smoker-Status-Prediction)](tasks/Random-Forest/Smoker-Status-Prediction) | +
 Соков Д.Д  | 15     | [Boosting (House-Prices)](tasks/Boosting/House-Prices) | +
-Сороколетов Д.Д | 15     | [KNN (Smoker-Status-Prediction)](tasks/KNN/Smoker-Status-Prediction)
+Сороколетов Д.Д | 15     | [KNN (Smoker-Status-Prediction)](tasks/KNN/Smoker-Status-Prediction) | +
 Корпусова С.Д  | 16     | [Logistic-Regression (Titanic)](tasks/Logistic-Regression/Titanic) | +
 Афанасьев А.В  | 16     | [MLP (Obesity-Prediction)](tasks/MLP/Obesity-Prediction) | +
 Голузин Е.К  | 17     | [Stacking (Insurance)](tasks/Stacking/Insurance-Cross-Selling-Classification) | +
@@ -39,7 +39,7 @@
 Бабахина С.А  | 18     | [Random-Forest (Obesity-Prediction)](tasks/Random-Forest/Obesity-Prediction) | +
 Липс Е.К  | 18     | [LDA (Glass-Classification)](tasks/LDA/Glass-Classification) | +
 Асанов Д.Р  | 19     | [Logistic-Regression (Alice)](tasks/Logistic-Regression/Alice)
-Басалаев Д.А  | 19     | [t-SNE (notMNIST)](tasks/t-SNE/notMNIST)
+Басалаев Д.А  | 19     | [t-SNE (notMNIST)](tasks/t-SNE/notMNIST) | +
 Безлепский А.Д  | 20     | [Boosting (Reservation-Cancellation)](tasks/Boosting/Reservation-Cancellation)
 Прохоров А.Д | 20     | [Linear-regression (Concrete-Strength)](tasks/Linear-regression/Concrete-Strength)
 Фирсова В.И  | 21     | [Boosting (Abalone)](tasks/Boosting/Abalone) | +
