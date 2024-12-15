@@ -10,7 +10,7 @@
 Волгузов А.Ю  | 3     | [Polynomial-regression (Sales)](tasks/Polynomial-regression/Sales) | +
 Иванов А.П | 3     | [Logistic-Regression (Smoker-Status-Prediction)](tasks/Logistic-Regression/Smoker-Status-Prediction) | +
 Кац С.В  | 4     | [PCA (Breast-Cancer)](tasks/PCA/Breast-Cancer-Wisconsin) | +
-Ежова Е.Д  | 4     | [Decision-Tree (Spaceship-Titanic)](tasks/Decision-Tree/Spaceship-Titanic)
+Ежова Е.Д  | 4     | [Decision-Tree (Spaceship-Titanic)](tasks/Decision-Tree/Spaceship-Titanic) | +
 Рогозин Д.Н  | 5     | [SVM (Abalone)](tasks/SVM/Abalone)
 Губин Р.В  | 5     | [Random-Forest (Bank-Churn)](tasks/Random-Forest/Bank-Churn)
 Белоус Ф.В  | 6     | [Decision-Tree (Employee-Attrition)](tasks/Decision-Tree/Employee-Attrition)
