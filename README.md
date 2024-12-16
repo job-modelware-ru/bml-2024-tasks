@@ -61,6 +61,6 @@
 Дмитриев М.Л  | 29     | [PCA (Breast-Cancer-Wisconsin)](tasks/PCA/Breast-Cancer-Wisconsin) | +
 Хамидуллин И.И  | 29     | [k-means (Customer-Segmentation)](tasks/k-means/Customer-Segmentation) | +
 Свитюк А.А  | 30     | [k-means (Tabular-Playground-Series)](tasks/k-means/Tabular-Playground-Series)
-Шабанов Н.А | 31     | [Time-series (Sales)](tasks/Time-series/Sales)
+Шабанов Н.А | 31     | [Time-series (Sales)](tasks/Time-series/Sales) | +
 Крылова Е.О  | 32     | [Logistic-Regression (Reservation-Cancellation)](tasks/Logistic-Regression/Reservation-Cancellation)
 Теплов А.С | 32     | [SVM (Reservation-Cancellation)](tasks/SVM/Reservation-Cancellation)
