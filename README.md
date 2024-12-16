@@ -64,3 +64,5 @@
 Шабанов Н.А | 31     | [Time-series (Sales)](tasks/Time-series/Sales) | +
 Крылова Е.О  | 32     | [Logistic-Regression (Reservation-Cancellation)](tasks/Logistic-Regression/Reservation-Cancellation)
 Теплов А.С | 32     | [SVM (Reservation-Cancellation)](tasks/SVM/Reservation-Cancellation)
+Бурмакова Д.А  | 33     | [Linear-regression (Loan Default Prediction)](tasks/Linear-regression/Loan-Default-Prediction)
+Лутченко М.Н  | 33     | [Boosting (Loan Default Prediction)](tasks/Boosting/Loan-Default-Prediction)
