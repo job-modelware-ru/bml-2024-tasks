@@ -4,7 +4,7 @@
 ФИО            | № подгруппы             | Задача       | Зачтено     
 ---------------|------------------|-------------------|-------------------
 Губанов А.Д  | 1     | [Boosting (Titanic)](tasks/Boosting/Titanic)
-Шевченко Г.И | 1     | [Linear-regression (Abalone)](tasks/Linear-regression/Abalone)
+Шевченко Г.И | 1     | [Linear-regression (Abalone)](tasks/Linear-regression/Abalone) | +
 Кузнецова Ю.Е    | 2| [LDA (Cirrhosis-Outcomes)](tasks/LDA/Cirrhosis-Outcomes) | +
 Табакова В.О    | 2    | [Decision-Tree (Titanic)](tasks/Decision-Tree/Titanic) | +
 Волгузов А.Ю  | 3     | [Polynomial-regression (Sales)](tasks/Polynomial-regression/Sales) | +
