@@ -52,7 +52,7 @@
 Филиппов Д.К  | 24     | [Stacking (Employee-Attrition)](tasks/Stacking/Employee-Attrition)
 Сулейманов В.Д | 25     | [Logistic-Regression (Bank-Churn)](tasks/Logistic-Regression/Bank-Churn) | +
 Бойцов А.Д | 25     | [Linear-regression (Mohs Hardness)](tasks/Linear-regression/Mohs-Hardness)
-Костюхин А.В  | 26     | [Random-Forest (Insurance)](tasks/Random-Forest/Insurance-Cross-Selling-Classification)
+Костюхин А.В  | 26     | [Random-Forest (Insurance)](tasks/Random-Forest/Insurance-Cross-Selling-Classification) | +
 Тасаков А.П  | 26     | [MLP (SteelDefect)](tasks/MLP/Steel-Plate-Defect-Prediction)
 Соколов С.А  | 27     | [Decision-Tree (Reservation-Cancellation)](tasks/Decision-Tree/Reservation-Cancellation)
 Корьев М.А  | 27     | [LinearRegression (Insurance-regression)](tasks/Linear-regression/Insurance-regression)
