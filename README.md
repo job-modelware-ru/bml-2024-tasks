@@ -13,7 +13,7 @@
 Ежова Е.Д  | 4     | [Decision-Tree (Spaceship-Titanic)](tasks/Decision-Tree/Spaceship-Titanic) | +
 Рогозин Д.Н  | 5     | [SVM (Abalone)](tasks/SVM/Abalone)
 Губин Р.В  | 5     | [Random-Forest (Bank-Churn)](tasks/Random-Forest/Bank-Churn)
-Белоус Ф.В  | 6     | [Decision-Tree (Employee-Attrition)](tasks/Decision-Tree/Employee-Attrition)
+Белоус Ф.В  | 6     | [Decision-Tree (Employee-Attrition)](tasks/Decision-Tree/Employee-Attrition) | +
 Ушкарёв С.Д | 6     | [DBSCAN (Customer-Segmentation)](tasks/DBSCAN/Customer-Segmentation)
 Ироносов А.В  | 8     | [Decision-Tree (Smoker-Status-Prediction)](tasks/Decision-Tree/Smoker-Status-Prediction) | +
 Дубовицкий В.А | 8     | [k-means (Wholesale-customers)](tasks/k-means/Wholesale-customers) | +
