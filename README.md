@@ -24,7 +24,7 @@
 Марков М.Д  | 10     | [Linear-regression (Car-Prices)](tasks/Linear-regression/Car-Prices) | +
 Филиппов П  | 11     | [Boosting (Insurance-Prediction)](tasks/Boosting/Insurance-Prediction) | +
 Бирюков А | 11     | [Random-Forest (Concrete-Strength)](tasks/Random-Forest/Concrete-Strength)
-Гребнев Г.А  | 12     | [KNN (Spaceship-Titanic)](tasks/KNN/Spaceship-Titanic)
+Гребнев Г.А  | 12     | [KNN (Spaceship-Titanic)](tasks/KNN/Spaceship-Titanic) | +
 Шкуропат П.К  | 12     | [DBSCAN (Tabular-Playground-Series)](tasks/DBSCAN/Tabular-Playground-Series) | +
 Соломатов А.Д  | 13     | [CNN (Sign-Language-MNIST)](tasks/CNN/Sign-Language-MNIST) | +
 Романчук Е.В  | 13     | [KNN (Car-Prices)](tasks/KNN/Car-Prices) | +
