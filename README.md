@@ -43,7 +43,7 @@
 Безлепский А.Д  | 20     | [Boosting (Reservation-Cancellation)](tasks/Boosting/Reservation-Cancellation)
 Прохоров А.Д | 20     | [Linear-regression (Concrete-Strength)](tasks/Linear-regression/Concrete-Strength)
 Фирсова В.И  | 21     | [Boosting (Abalone)](tasks/Boosting/Abalone) | +
-Казакевич А.Ю  | 21     | [DBSCAN (Wholesale-customers)](tasks/DBSCAN/Wholesale-customers)
+Казакевич А.Ю  | 21     | [DBSCAN (Wholesale-customers)](tasks/DBSCAN/Wholesale-customers) | +
 Лапина О.К  | 22     | [Boosting (Smoker Status Prediction)](tasks/Boosting/Smoker-Status-Prediction) | +
 Марченко Е.С  | 22     | [Logistic-Regression (Employee-Attrition)](tasks/Logistic-Regression/Employee-Attrition) | +
 Маликов И.М  | 23     | [Linear-regression (House-Prices)](tasks/Linear-regression/House-Prices) | +
