@@ -55,7 +55,7 @@ X_train, X_test, y_train, y_test = train_test_split(X.to_numpy(), y.to_numpy(), 
 # Если модель уже обучена и сохранена
 # Загрузка модели
 #model = load('model.joblib')
-#from goto import with_goto
+#from goto import goto, label
 #goto .start
 
 # Создание модели Random Forest
