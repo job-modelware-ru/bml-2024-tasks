@@ -81,11 +81,3 @@ print(confusion_matrix(y_test, y_pred))
 print("\nОтчет о классификации:")
 print(classification_report(y_test, y_pred))
 
-# Визуализация важности признаков
-feature_importances = model.feature_importances_
-features = X.columns
-
-plt.figure(figsize=(10, 6))
-sns.barplot(x=feature_importances, y=features)
-plt.title('Важность признаков')
-plt.show()

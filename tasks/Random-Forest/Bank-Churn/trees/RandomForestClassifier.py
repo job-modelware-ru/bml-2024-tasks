@@ -19,7 +19,15 @@ class RandomForestClassifier:
             self.trees.append(tree)
 
     def predict(self, X):
-        # Получаем предсказания от всех деревьев
+        # Получаем предсказания от всех деревьев и выбираем наиболее частый класс
         predictions = np.array([tree.predict(X) for tree in self.trees])
-        # Применяем округление и затем выбираем наиболее частый класс
-        return [np.bincount(np.round(pred).astype(int)).argmax() for pred in predictions.T]
+        
+        # Для каждого образца выбираем наиболее частый класс среди предсказаний деревьев
+        return [np.bincount(pred).argmax() for pred in predictions.T]
+
+    @property
+    def feature_importances_(self):
+        # Вычисляем важность признаков как среднее значение важностей деревьев
+        importances = np.mean([tree.feature_importances_ for tree in self.trees], axis=0)
+        
+        return importances
